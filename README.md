@@ -8,6 +8,7 @@ https://www.kaggle.com/code/suvooo/garbage-classification-keras-transfer-learnin
 ## Project Review
 - Review 0 - 16 August 2022
 - Review 1 - 23 September 2022
+- Review 2 - 14 October 2022
 
 ## Supervisor
 - Dr. S. Babu 
