@@ -14,12 +14,12 @@ https://www.kaggle.com/code/suvooo/garbage-classification-keras-transfer-learnin
 ## Preview : 
 
 <p align="left">
-<img width=20% src="./Application/App/Assets/preview1.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/Assets/preview2.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-<img width=20% src="./Application/App/Assets/preview3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/Assets/preview4.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/Assets/preview5.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/Assets/preview6.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="./Application/App/assets/preview1.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="./Application/App/assets/preview2.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=20% src="./Application/App/assets/preview3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="./Application/App/assets/preview4.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="./Application/App/assets/preview5.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="./Application/App/assets/preview6.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 ## Our Product
