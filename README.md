@@ -25,7 +25,7 @@ https://www.kaggle.com/code/suvooo/garbage-classification-keras-transfer-learnin
 ## Our Product
 [Click here to download](https://drive.google.com/file/d/1WGyjP_dSOpoTMVstzfxC8CUooF86fvI-/view?usp=sharing) <br>
 
-![TrashCan](./Application/App/assets/applink.png)
+<img width=30% src="./Application/App/assets/applink.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## Supervisor
 - Dr. S. Babu 
