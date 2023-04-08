@@ -1,0 +1,9 @@
+requests
+keras
+numpy
+tensorflow
+fastapi
+Pillow
+gunicorn
+uvicorn
+protobuf
