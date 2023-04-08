@@ -1,15 +1,23 @@
 # TrashCan
-Minor Project for 7th Semester CSE - 18CSP107L 
+Minor Project for 7th Semester CSE - 18CSP107L **continued** to Major Project for **8th Semester CSE - 18CSP109L**
 
 <!---Link to Kaggle Notebook :
 
 https://www.kaggle.com/code/suvooo/garbage-classification-keras-transfer-learning/edit -->
 
-## Project Review
+## Minor Project Review
 - Review 0 - 16 August 2022
 - Review 1 - 23 September 2022
 - Review 2 - 14 October 2022
 - Review 3 - 05 November 2022
+
+## Major Project Review
+- Review 0 - 06 January 2023
+- Review 1 - 18 February 2023
+- Review 2 - 18 March 2023
+- Review 3 - 06 May 2023
+- ViVa - 16 May 2023
+
 
 ## Preview : 
 
