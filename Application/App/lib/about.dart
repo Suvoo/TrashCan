@@ -47,37 +47,7 @@ class AboutState extends State<About> {
                 Padding(
                   padding: const EdgeInsets.all(15),
                   child: GestureDetector(
-                    onTap:()=>launch('https://www.srmist.edu.in/engineering/department-of-computing-technologies/faculty/dr-babu-s'),
-                    child: Container(
-                      padding: const EdgeInsets.all(20),
-                      decoration: BoxDecoration(
-                        color: Colors.black54,
-                        borderRadius: BorderRadius.circular(20),
-                      ),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text('Dr. S.Babu',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
-                              Text('Know More >',style: GoogleFonts.poppins(color: Colors.white),),
-                            ],
-                          ),
-                          const CircleAvatar(
-                            backgroundColor: Colors.black54,
-                            radius: 45,
-                            backgroundImage: NetworkImage('https://www.srmist.edu.in/sites/default/files/images/babu-s-cse.jpg',scale: 0.1),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
-                ),
-                Padding(
-                  padding: const EdgeInsets.all(15),
-                  child: GestureDetector(
-                    onTap:()=>launch('https://github.com/Blazikengr8'),
+                    onTap:()=>launch('https://www.srmist.edu.in/faculty/dr-s-babu/'),
                     child: Container(
                       padding: const EdgeInsets.all(20),
                       decoration: BoxDecoration(
@@ -91,12 +61,12 @@ class AboutState extends State<About> {
                           const CircleAvatar(
                             radius: 50,
                             backgroundColor: Colors.black,
-                            backgroundImage: NetworkImage('https://avatars.githubusercontent.com/u/60261112?s=400&u=2162485400ab03771599d1b60f78fc8ec87bba92&v=4'),
+                            backgroundImage: NetworkImage('https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/04/Babu-S.jpg'),
                           ),
                           Column(
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
-                              Text('Abhigyan Singh',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
+                              Text('Dr.S.Babu',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
                               Text('Know More >',style: GoogleFonts.poppins(color: Colors.white),),
                             ],
                           )
@@ -165,6 +135,7 @@ class AboutState extends State<About> {
                     ),
                   ),
                 ),
+                SizedBox(height: 80,),
               ],
             ),
           ),
