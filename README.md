@@ -16,8 +16,9 @@ https://www.kaggle.com/code/suvooo/garbage-classification-keras-transfer-learnin
 - Review 1 - 18 February 2023
 - Review 2 - 18 March 2023
 - Review 3 - 06 May 2023
-- ViVa - 16 May 2023
+- ViVa - 18 May 2023
 
+🎓 Bachelors - Completed 19 May 2023
 
 ## Preview : 
 
