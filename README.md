@@ -24,9 +24,9 @@ Conference on Advances in Computer Engineering, Communication Systems and Busine
 </p>
 
 ## Our Product
-[Click here to download](https://drive.google.com/file/d/1ujjMqUEvZjh8KxDD7aw4_DXdvRBaiEgQ/view?usp=sharing) <br>
+[Click here to download](https://bit.ly/garbageseg) <br>
 
-<img width=30% src="https://github.com/Suvoo/TrashCan/assets/52796258/703fa548-d3a3-44cb-b184-ec628d670fa9"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=30% src="https://github.com/Suvoo/TrashCan/assets/52796258/65a3d6f0-379c-4982-b1b3-41eb480b7887"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## Supervisor
 ### Dr. S. Babu 
