@@ -14,25 +14,26 @@ Conference on Advances in Computer Engineering, Communication Systems and Busine
 ## Preview : 
 
 <p align="left">
-<img width=20% src="./Application/App/assets/preview1.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/assets/preview2.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-<img width=20% src="./Application/App/assets/preview3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/assets/preview4.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/assets/preview5.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=20% src="./Application/App/assets/preview6.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/RockChinQ/RockChinQ/assets/52796258/e240895a-edb5-4212-9cae-56d761cdc5bb"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/RockChinQ/RockChinQ/assets/52796258/ac48c7db-cb4f-4be6-8149-7adb002bd9b1"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=20% src="https://github.com/RockChinQ/RockChinQ/assets/52796258/ad7c4399-bc43-46b3-b675-36e4ef4ff746"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/RockChinQ/RockChinQ/assets/52796258/695e81d0-39f7-4986-ba58-65d129fa687e"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/Suvoo/TrashCan/assets/52796258/6a367232-ce98-4189-a925-b72f0e27d0da"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/Suvoo/TrashCan/assets/52796258/69c38d2e-7fd0-4180-84fb-da4004c403c3"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<!-- <img width=20% src="./Application/App/assets/preview6.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; -->
 </p>
 
 ## Our Product
 [Click here to download](https://drive.google.com/file/d/1ujjMqUEvZjh8KxDD7aw4_DXdvRBaiEgQ/view?usp=sharing) <br>
 
-<img width=30% src="./Application/App/assets/applink.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=30% src="https://github.com/Suvoo/TrashCan/assets/52796258/703fa548-d3a3-44cb-b184-ec628d670fa9"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## Supervisor
 ### Dr. S. Babu 
 
 ## Team
 
-<table>
+<table
 <tr align="center">
 
 <td>
