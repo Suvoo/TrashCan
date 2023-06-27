@@ -1,5 +1,5 @@
 # TrashCan
-An application to segregate waste using deep learning.
+An application to segregate waste using deep learning. [Blog](https://medium.com/@suvoo/my-12-month-long-project-ab374c28bbf3)
 
 <!---Link to Kaggle Notebook :
 
